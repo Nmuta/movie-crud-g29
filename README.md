@@ -1,7 +1,7 @@
 # movie-crud
 
 ### Make your own movie rating site.
-- Fork and Clone this repository and use everything you've learned in last couple weeks to complete the exercise.  Use MongoDB for your database.
+- Fork and Clone this repository and use everything you've learned in last couple weeks to complete the exercise.   
 
 ## HOME PAGE
 
@@ -32,4 +32,17 @@
 - Your show page should display the poster and info for "title", "director", "year", and "your rating".
 
 ![Index](/mockups/show.png)
+
+
+## AESTETICS 
+You do not have to match the mockups exactly, but the app shouldbe attractive.  This is a CRUD assessment.  It's open book: you can look at previous CRUD apps you've built for guidance. 
+
+Use the RESTful routes covered in class yesterday for each of your routes.  See Martha or Eli for details on how to name your routes if you cannot remember the naming conventions.
+
+GET /movies   _lists all movies_
+POST /movies  _creates a new movie_
+GET /movies/:id  _show one movie_
+GET /movies/:id/edit _form to edit a movie_     ... etc 
+
+
 
