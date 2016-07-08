@@ -35,7 +35,10 @@
 
 
 ## AESTETICS 
-You do not have to match the mockups exactly, but the app shouldbe attractive.  This is a CRUD assessment.  It's open book: you can look at previous CRUD apps you've built for guidance. 
+You do not have to match the mockups exactly, but the app shouldbe attractive.  
+This is a CRUD assessment. Your first priority is to get all of the routes working.
+Your second prioirty is CSS. 
+It's open book: you can look at previous CRUD apps you've built for guidance, but you should NOT be copying and pasting any code.  
 
 Use the RESTful routes covered in class yesterday for each of your routes.  See Martha or Eli for details on how to name your routes if you cannot remember the naming conventions.
 
